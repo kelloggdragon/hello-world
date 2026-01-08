@@ -8,4 +8,9 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+Hello Humans
+
+Commit Steps:
+1. Stage the changes
+2. Add a message and commit
+3. Push the commit
